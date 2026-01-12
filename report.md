@@ -27,7 +27,7 @@
   <p  align="center"> <font face="times new roman" size="2" color="white"> Москва, 2025 г. </p>
 
 #Цель работы освоить Git
-
+### ход работы установка Git
   <hr>  GNU nano 7.2                       report.md
 
 
