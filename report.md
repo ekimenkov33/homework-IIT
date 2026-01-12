@@ -10,7 +10,7 @@
 <center>по дисциплине </center>
 <center><b>«Введение в информационные технологии»</b></center>
 <center>на тему</center>
-<center><b>«Виртуальные машины»</b> </center>
+<center><b>«Git»</b> </center>
 
 </font>
 
